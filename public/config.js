@@ -1,19 +1,20 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: 'Saiodgmの网站状态监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm792996750-5fc752c0b6f37a2d1626e176',
+    'm791824199-46b6d3d47dc5b5a99b004b25',
+    'm791824263-dfd0f542fc6a1f9c93aadc9a',
+    'm791832798-6a4b04c11815b61881bab177',
+    'm791832801-6dbb63f7e41c844e347f0c65',
   ],
 
   // 日志天数
-  CountDays: 90,
+  CountDays: 45,
 
   // 是否显示检测站点的链接
   ShowLink: true,
@@ -21,16 +22,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://status.org.cn/'
+      text: '主页',
+      url: 'https://saiodgm.gq/'
     },
     {
       text: 'GitHub',
       url: 'https://github.com/yb/uptime-status'
-    },
-    {
-      text: 'Blog',
-      url: 'https://abo.xyz/'
     },
   ],
 };
