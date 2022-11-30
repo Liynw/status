@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Saiodgmの网站状态监测',
+  SiteName: 'Liynwの网站状态监测',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -23,7 +23,7 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://saiodgm.gq/'
+      url: 'https://liynw.top/'
     },
     {
       text: 'GitHub',
